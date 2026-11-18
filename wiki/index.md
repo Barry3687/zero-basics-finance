@@ -28,4 +28,4 @@
 
 ## 本階段狀態
 
-五篇核心條目與對應練習已建立。八頁[大綱](../slides/outline.md)、[來源對照](../slides/source-map.md)、逐頁稿及[內容檢查報告](../reports/2026-11-19-content-check.md)已獲使用者確認。[八頁 HTML 簡報](../slides/index.html)、[公開入口檔案](../index.html)與[練習頁](../exercises/index.html)已完成本機檢查，結果見[發布檢查報告](../reports/2026-11-19-release-check.md)。尚未上傳 GitHub Pages；公開網址待使用者上傳後親自開啟驗證。
+五篇核心條目與對應練習已建立。八頁[大綱](../slides/outline.md)、[來源對照](../slides/source-map.md)、逐頁稿及[內容檢查報告](../reports/2026-11-19-content-check.md)已獲使用者確認。[八頁 HTML 簡報](../slides/index.html)、[公開入口檔案](../index.html)與[練習頁](../exercises/index.html)已完成本機檢查，結果見[發布檢查報告](../reports/2026-11-19-release-check.md)。後續已依使用者授權發布 GitHub Pages；可直接使用首頁、可搜尋的 Wiki 閱讀器、流程圖及驗收入口。最新公開實測與作業要求對照見 [優化與公開檢查](../reports/2026-11-19-optimization-check.md)。

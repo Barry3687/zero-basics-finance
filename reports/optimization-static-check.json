@@ -1,0 +1,19 @@
+{
+  "slides": 8,
+  "svg": 8,
+  "body_counts": [
+    103,
+    100,
+    103,
+    115,
+    109,
+    105,
+    101,
+    108
+  ],
+  "protected_unchanged": 26,
+  "embedded_documents": 36,
+  "embedded_local_links": 259,
+  "missing": 0,
+  "public_browser_test": "See 2026-11-19-optimization-check.md"
+}

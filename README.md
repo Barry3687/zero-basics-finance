@@ -80,11 +80,18 @@ python -m http.server 8000 --bind 127.0.0.1
 
 操作：方向鍵左右切頁，空白鍵前進；也可使用下方按鈕。首頁與末頁按鈕有邊界，不會多出第九頁。手機直向採上下排列，依可用高度縮放；短螢幕或高倍率縮放可能使字變小，必要時改橫向或在較大螢幕閱讀。
 
-Markdown 文件保留 `.md` 連結。GitHub Repository 會排版顯示；直接用本機瀏覽器或靜態網站開啟，可能顯示原始 Markdown 或下載，依瀏覽器處理。練習另有 HTML 入口，不依賴 Markdown 渲染。
+原始 Markdown 保留供版本核對；網站另有 reader.html，可直接閱讀與搜尋 Wiki、來源、規則及報告，不依賴 GitHub 的 Markdown 顯示。練習另有 HTML 入口。reader.html 內嵌目前文件快照，修改 Markdown 後須同步重建閱讀器，避免顯示舊資料。
 
 ## GitHub Pages 線上使用
 
-本次**沒有上傳 GitHub，也沒有產生已驗證公開網址**。
+本專案已於 2026-11-19 發布至公開 GitHub Repository 與 GitHub Pages。
+
+- [公開教學首頁](https://barry3687.github.io/zero-basics-finance/)
+- [八頁教學簡報](https://barry3687.github.io/zero-basics-finance/slides/index.html)
+- [可搜尋 Wiki 閱讀器](https://barry3687.github.io/zero-basics-finance/reader.html?doc=wiki/index.md)
+- [GitHub Repository](https://github.com/Barry3687/zero-basics-finance)
+
+以下發布說明保留作為日後更新操作指引。
 
 將這個資料夾內的完整內容放入預定作為網站根目錄的 GitHub Repository，保留相對目錄及 `.nojekyll`。網站的發布來源必須包含根目錄 index.html；若多包一層資料夾，入口路徑也會多一層。
 
@@ -100,4 +107,4 @@ Markdown 文件保留 `.md` 連結。GitHub Repository 會排版顯示；直接�
 
 ## 驗收界線
 
-本機結構與指定尺寸的 Chrome 檢查已記錄於發布報告；不等於所有裝置、瀏覽器或公開主機皆已驗收。GitHub Pages 公開網址實測保持待辦，等使用者上傳後親自驗證。
+本機結構與指定尺寸的 Chrome 檢查已記錄於發布報告；不等於所有裝置、瀏覽器或公開主機皆已驗收。GitHub Pages 公開網址已實測首頁、Wiki、來源定位、八頁切換、鍵盤操作與練習解析；最新結果見 reports/2026-11-19-optimization-check.md。
