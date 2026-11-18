@@ -1,0 +1,142 @@
+{
+  "date": "2026-11-19",
+  "method": "Chrome public URLs; staged self-check by the same assistant",
+  "desktop": [
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n1 / 8",
+      "svg": true,
+      "title": "零基礎個人投資與理財入門",
+      "within": true
+    },
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n2 / 8",
+      "svg": true,
+      "title": "收支與緊急預備金",
+      "within": true
+    },
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n3 / 8",
+      "svg": true,
+      "title": "金額增加與購買力",
+      "within": true
+    },
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n4 / 8",
+      "svg": true,
+      "title": "單利與複利",
+      "within": true
+    },
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n5 / 8",
+      "svg": true,
+      "title": "股票與債券的身分差異",
+      "within": true
+    },
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n6 / 8",
+      "svg": true,
+      "title": "基金與ETF的包含關係",
+      "within": true
+    },
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n7 / 8",
+      "svg": true,
+      "title": "分散與配置仍可能損失",
+      "within": true
+    },
+    {
+      "page": "← → 方向鍵・空白鍵\n上一頁\n下一頁\n8 / 8",
+      "svg": true,
+      "title": "第一份理財計畫與付款前查核",
+      "within": true
+    }
+  ],
+  "mobile": [
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "第一份理財計畫與付款前查核",
+      "within": true
+    },
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "分散與配置仍可能損失",
+      "within": true
+    },
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "基金與ETF的包含關係",
+      "within": true
+    },
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "股票與債券的身分差異",
+      "within": true
+    },
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "單利與複利",
+      "within": true
+    },
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "金額增加與購買力",
+      "within": true
+    },
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "收支與緊急預備金",
+      "within": true
+    },
+    {
+      "screenWidth": 390,
+      "scrollWidth": 390,
+      "title": "零基礎個人投資與理財入門",
+      "within": true
+    }
+  ],
+  "wiki": [
+    {
+      "sections": 5,
+      "sourceLinks": 4,
+      "title": "先管好生活中的錢"
+    },
+    {
+      "sections": 5,
+      "sourceLinks": 2,
+      "title": "錢為什麼會變多，也可能變少"
+    },
+    {
+      "sections": 5,
+      "sourceLinks": 6,
+      "title": "股票、債券、基金與 ETF 是什麼"
+    },
+    {
+      "sections": 5,
+      "sourceLinks": 4,
+      "title": "如何避免把風險集中在一起"
+    },
+    {
+      "sections": 5,
+      "sourceLinks": 5,
+      "title": "建立自己的第一份理財計畫"
+    }
+  ],
+  "practiceAnswers": [
+    "D，8 個月",
+    "C，10,609 元",
+    "D",
+    "B，9,400 元",
+    "C"
+  ],
+  "sourceFallbacks": {
+    "S006": "Chrome rendered 43-page PDF",
+    "S007": "Chrome rendered corporate-bond definitions"
+  }
+}

@@ -1,0 +1,642 @@
+{
+  "time": "2026-11-19T05:17:13.381140+08:00",
+  "results": [
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/.gitignore",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/.gitignore",
+      "bytes": 451,
+      "content_type": "application/octet-stream",
+      "matches_local": true,
+      "path": ".gitignore",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/.nojekyll",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/.nojekyll",
+      "bytes": 0,
+      "content_type": "application/octet-stream",
+      "matches_local": true,
+      "path": ".nojekyll",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/AGENTS.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/AGENTS.md",
+      "bytes": 15690,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "AGENTS.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/index.html",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/index.html",
+      "bytes": 8387,
+      "content_type": "text/html; charset=utf-8",
+      "matches_local": true,
+      "path": "index.html",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reader.html",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reader.html",
+      "bytes": 424656,
+      "content_type": "text/html; charset=utf-8",
+      "matches_local": true,
+      "path": "reader.html",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/README.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/README.md",
+      "bytes": 6710,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "README.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/exercises/01-budget-and-emergency-fund.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/exercises/01-budget-and-emergency-fund.md",
+      "bytes": 1408,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "exercises/01-budget-and-emergency-fund.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/exercises/02-inflation-and-compound-interest.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/exercises/02-inflation-and-compound-interest.md",
+      "bytes": 1386,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "exercises/02-inflation-and-compound-interest.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/exercises/03-stocks-bonds-funds-etfs.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/exercises/03-stocks-bonds-funds-etfs.md",
+      "bytes": 1357,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "exercises/03-stocks-bonds-funds-etfs.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/exercises/04-diversification-and-allocation.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/exercises/04-diversification-and-allocation.md",
+      "bytes": 1173,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "exercises/04-diversification-and-allocation.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/exercises/05-first-financial-plan.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/exercises/05-first-financial-plan.md",
+      "bytes": 1425,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "exercises/05-first-financial-plan.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/exercises/index.html",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/exercises/index.html",
+      "bytes": 10957,
+      "content_type": "text/html; charset=utf-8",
+      "matches_local": true,
+      "path": "exercises/index.html",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/notes/s001-reading.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/notes/s001-reading.md",
+      "bytes": 816,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "notes/s001-reading.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/notes/s002-reading.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/notes/s002-reading.md",
+      "bytes": 733,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "notes/s002-reading.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/notes/s003-reading.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/notes/s003-reading.md",
+      "bytes": 764,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "notes/s003-reading.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/notes/s004-reading.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/notes/s004-reading.md",
+      "bytes": 2621,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "notes/s004-reading.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/notes/s005-reading.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/notes/s005-reading.md",
+      "bytes": 712,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "notes/s005-reading.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/notes/s006-reading.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/notes/s006-reading.md",
+      "bytes": 1506,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "notes/s006-reading.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/notes/s007-reading.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/notes/s007-reading.md",
+      "bytes": 1278,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "notes/s007-reading.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/2026-11-19-content-check.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/2026-11-19-content-check.md",
+      "bytes": 19919,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "reports/2026-11-19-content-check.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/2026-11-19-optimization-check.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/2026-11-19-optimization-check.md",
+      "bytes": 3787,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "reports/2026-11-19-optimization-check.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/2026-11-19-release-check.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/2026-11-19-release-check.md",
+      "bytes": 11877,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "reports/2026-11-19-release-check.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/browser-check.json",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/browser-check.json",
+      "bytes": 3619,
+      "content_type": "application/json; charset=utf-8",
+      "matches_local": true,
+      "path": "reports/browser-check.json",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/index.html",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/index.html",
+      "bytes": 7183,
+      "content_type": "text/html; charset=utf-8",
+      "matches_local": true,
+      "path": "reports/index.html",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/optimization-static-check.json",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/optimization-static-check.json",
+      "bytes": 293,
+      "content_type": "application/json; charset=utf-8",
+      "matches_local": true,
+      "path": "reports/optimization-static-check.json",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/index.html",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/index.html",
+      "bytes": 31894,
+      "content_type": "text/html; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/index.html",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/outline.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/outline.md",
+      "bytes": 17883,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/outline.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/source-map.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/source-map.md",
+      "bytes": 10500,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/source-map.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/sources/catalog.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/sources/catalog.md",
+      "bytes": 8349,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "sources/catalog.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/wiki/01-budget-and-emergency-fund.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/wiki/01-budget-and-emergency-fund.md",
+      "bytes": 2752,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "wiki/01-budget-and-emergency-fund.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/wiki/02-inflation-and-compound-interest.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/wiki/02-inflation-and-compound-interest.md",
+      "bytes": 3000,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "wiki/02-inflation-and-compound-interest.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/wiki/03-stocks-bonds-funds-etfs.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/wiki/03-stocks-bonds-funds-etfs.md",
+      "bytes": 3336,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "wiki/03-stocks-bonds-funds-etfs.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/wiki/04-diversification-and-allocation.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/wiki/04-diversification-and-allocation.md",
+      "bytes": 2807,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "wiki/04-diversification-and-allocation.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/wiki/05-first-financial-plan.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/wiki/05-first-financial-plan.md",
+      "bytes": 3387,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "wiki/05-first-financial-plan.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/wiki/index.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/wiki/index.md",
+      "bytes": 3006,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "wiki/index.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/wiki/log.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/wiki/log.md",
+      "bytes": 16938,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "wiki/log.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/workflow/graph.svg",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/workflow/graph.svg",
+      "bytes": 4230,
+      "content_type": "image/svg+xml",
+      "matches_local": true,
+      "path": "workflow/graph.svg",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/workflow/index.html",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/workflow/index.html",
+      "bytes": 11086,
+      "content_type": "text/html; charset=utf-8",
+      "matches_local": true,
+      "path": "workflow/index.html",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/workflow/loop-and-graph.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/workflow/loop-and-graph.md",
+      "bytes": 3504,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "workflow/loop-and-graph.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-01.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-01.md",
+      "bytes": 2742,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-01.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-02.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-02.md",
+      "bytes": 2663,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-02.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-03.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-03.md",
+      "bytes": 2745,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-03.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-04.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-04.md",
+      "bytes": 2848,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-04.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-05.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-05.md",
+      "bytes": 2767,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-05.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-06.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-06.md",
+      "bytes": 2696,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-06.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-07.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-07.md",
+      "bytes": 3066,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-07.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-08.md",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/slides/drafts/slide-08.md",
+      "bytes": 3161,
+      "content_type": "text/markdown; charset=utf-8",
+      "matches_local": true,
+      "path": "slides/drafts/slide-08.md",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/screenshots/desktop-home.jpg",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/screenshots/desktop-home.jpg",
+      "bytes": 89461,
+      "content_type": "image/jpeg",
+      "matches_local": true,
+      "path": "reports/screenshots/desktop-home.jpg",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/screenshots/desktop-slide-03.jpg",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/screenshots/desktop-slide-03.jpg",
+      "bytes": 103068,
+      "content_type": "image/jpeg",
+      "matches_local": true,
+      "path": "reports/screenshots/desktop-slide-03.jpg",
+      "verified_accessible": true
+    },
+    {
+      "kind": "project",
+      "url": "https://barry3687.github.io/zero-basics-finance/reports/screenshots/mobile-slide-03.jpg",
+      "status": 200,
+      "final_url": "https://barry3687.github.io/zero-basics-finance/reports/screenshots/mobile-slide-03.jpg",
+      "bytes": 42809,
+      "content_type": "image/jpeg",
+      "matches_local": true,
+      "path": "reports/screenshots/mobile-slide-03.jpg",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site",
+      "bytes": 153801,
+      "content_type": "text/html; charset=utf-8",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "status": 200,
+      "final_url": "https://docs.github.com/en/pages/getting-started-with-github-pages/what-is-github-pages",
+      "bytes": 93879,
+      "content_type": "text/html; charset=utf-8",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://github.com/Barry3687/zero-basics-finance",
+      "status": 200,
+      "final_url": "https://github.com/Barry3687/zero-basics-finance",
+      "bytes": 249609,
+      "content_type": "text/html; charset=utf-8",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://moneywise.fsc.gov.tw/tabf/main/tool1.html",
+      "initial_automated_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)>",
+      "verification": "網頁查閱工具已讀取官方正文（S001、S002、S003 或 S005）",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://www.cbc.gov.tw/tw/cp-731-24677-0C9D6-1.html",
+      "initial_automated_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)>",
+      "verification": "網頁查閱工具已讀取官方正文（S001、S002、S003 或 S005）",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://www.sitca.org.tw/ROC/SITCA_ETF/etf-hub-basic.html",
+      "initial_automated_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)>",
+      "verification": "網頁查閱工具已讀取官方正文（S001、S002、S003 或 S005）",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://www.tfsr.org.tw/downloadZone/download?kind_id=5",
+      "status": 200,
+      "final_url": "https://www.tfsr.org.tw/downloadZone/download?kind_id=5",
+      "bytes": 24617,
+      "content_type": "text/html; charset=UTF-8",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://www.tfsr.org.tw/storage/file/download/01.%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E5%8F%8A%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86-%E4%B8%80%E8%88%AC%E6%8A%95%E8%B3%87%E4%BA%BA%28%E8%AD%89%E5%9F%BA%E6%9C%83%29.pdf",
+      "status": 200,
+      "final_url": "https://www.tfsr.org.tw/storage/file/download/01.%E6%8A%95%E8%B3%87%E7%90%86%E8%B2%A1%E5%8F%8A%E9%A2%A8%E9%9A%AA%E7%AE%A1%E7%90%86-%E4%B8%80%E8%88%AC%E6%8A%95%E8%B3%87%E4%BA%BA%28%E8%AD%89%E5%9F%BA%E6%9C%83%29.pdf",
+      "bytes": 4152465,
+      "content_type": "application/pdf",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://www.tpex.org.tw/zh-tw/bond/service/introduction/co-bond.html",
+      "initial_automated_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)>",
+      "verification": "Chrome 已顯示公司債／金融債正文、票面利率段落",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://www.trust.org.tw/upload/1130600262001.pdf",
+      "initial_automated_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)>",
+      "verification": "Chrome PDF 閱讀器顯示 43 頁，封面金融素養培力與 2024.09 可讀",
+      "verified_accessible": true
+    },
+    {
+      "kind": "external",
+      "url": "https://www.twse.com.tw/zh/products/system/ftfa-trading.html",
+      "initial_automated_error": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Missing Subject Key Identifier (_ssl.c:1032)>",
+      "verification": "網頁查閱工具已讀取官方正文（S001、S002、S003 或 S005）",
+      "verified_accessible": true
+    }
+  ]
+}

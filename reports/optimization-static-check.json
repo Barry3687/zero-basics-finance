@@ -13,7 +13,7 @@
   ],
   "protected_unchanged": 26,
   "embedded_documents": 36,
-  "embedded_local_links": 259,
+  "embedded_local_links": 265,
   "missing": 0,
   "public_browser_test": "See 2026-11-19-optimization-check.md"
 }
