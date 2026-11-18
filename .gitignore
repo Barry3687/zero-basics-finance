@@ -1,0 +1,38 @@
+# Credentials and environment settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*.json
+secrets*.json
+
+# Private learning data and unlicensed source materials
+/private/
+/private-notes/
+/notes-private/
+/raw/
+/raw-materials/
+/sources/originals/
+/uploads/
+*.pdf
+*.docx
+*.pptx
+
+# Temporary and local tool state
+/tmp/
+/temp/
+/.codex/
+/.agents/
+/.openai/
+node_modules/
+__pycache__/
+*.pyc
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+desktop.ini

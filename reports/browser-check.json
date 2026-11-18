@@ -1,0 +1,201 @@
+{
+  "desktop": [
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "1 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    },
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "2 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    },
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "3 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    },
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "4 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    },
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "5 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    },
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "6 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    },
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "7 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    },
+    {
+      "columnsSeparate": true,
+      "contentAboveFooter": true,
+      "page": "8 / 8",
+      "svgTextWithin": true,
+      "viewport": [
+        1536,
+        960
+      ],
+      "visible": 1,
+      "within": true
+    }
+  ],
+  "mobile": [
+    {
+      "aboveFooter": true,
+      "page": "1 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    },
+    {
+      "aboveFooter": true,
+      "page": "2 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    },
+    {
+      "aboveFooter": true,
+      "page": "3 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    },
+    {
+      "aboveFooter": true,
+      "page": "4 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    },
+    {
+      "aboveFooter": true,
+      "page": "5 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    },
+    {
+      "aboveFooter": true,
+      "page": "6 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    },
+    {
+      "aboveFooter": true,
+      "page": "7 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    },
+    {
+      "aboveFooter": true,
+      "page": "8 / 8",
+      "stacked": true,
+      "svgTextWithin": true,
+      "viewport": [
+        390,
+        844
+      ],
+      "within": true
+    }
+  ],
+  "interaction": {
+    "space": "3 to 4",
+    "left": "4 to 3",
+    "nextButton": "3 to 4",
+    "lastBoundary": "8 remains 8, next disabled"
+  },
+  "publicPagesTested": false,
+  "exercise": {
+    "entryWorks": true,
+    "firstAnswerExpands": true
+  }
+}
